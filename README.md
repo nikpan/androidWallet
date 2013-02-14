@@ -1,0 +1,4 @@
+androidWallet
+=============
+
+The idea is to develop a generic electronic wallet app for android. Typically, many Internet shopping providers maintain electronic wallets for the accounts of customers. Customers can pre-charge these wallets by transfering money from bank accounts. However, it is not a very ideal way of maintaining idle money. Think of maintaining wallets with flipkart, snapdeal, indiaplaza, infibeam, etc. You end up in having idle money in each wallet and losing out. The other way is to generate a netcard from your bank to make a purchase. However, it is a two step process. So, can you come up with an app which runs in your android phone and perhaps let you generates netcard concurrently as you shop with flipkart, or other internet shopping sites. 
